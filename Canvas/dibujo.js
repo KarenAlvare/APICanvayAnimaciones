@@ -55,7 +55,7 @@ function dibujarHombreLobo(ctx) {
     ctx.arc(150, 150, 40, 0, Math.PI);
     ctx.fill();
 
-    // Garras
+    // Cuello
     ctx.strokeStyle = 'black';
     ctx.lineWidth = 2;
     ctx.beginPath();
